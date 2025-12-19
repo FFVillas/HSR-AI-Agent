@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+langchain-google-genai
+langchain-core
+langchain-community
+langgraph
+llama-index
+llama-index-embeddings-google
+llama-index-vector-stores-pinecone
+pinecone-client
+tavily-python
+slowapi
